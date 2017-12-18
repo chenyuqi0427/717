@@ -1,0 +1,20 @@
+[
+    {
+        "cate_id": "27",
+        "cate_name": "肉禽",
+        "cate_icon": "\/static\/mobile\/images\/category\/shen1@2x.png",
+        "parent_id": "6"
+    },
+    {
+        "cate_id": "29",
+        "cate_name": "果蔬",
+        "cate_icon": "\/static\/mobile\/images\/category\/shen3@2x.png",
+        "parent_id": "6"
+    },
+    {
+        "cate_id": "30",
+        "cate_name": "蛋类",
+        "cate_icon": "\/static\/mobile\/images\/category\/shen4@2x.png",
+        "parent_id": "6"
+    }
+]

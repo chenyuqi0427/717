@@ -1,0 +1,44 @@
+[
+    {
+        "cate_id": "31",
+        "cate_name": "米麦杂粮",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi1@2x.png",
+        "parent_id": "7"
+    },
+    {
+        "cate_id": "32",
+        "cate_name": "面粉",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi2@2x.png",
+        "parent_id": "7"
+    },
+    {
+        "cate_id": "33",
+        "cate_name": "食用油",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi3@2x.png",
+        "parent_id": "7"
+    },
+    {
+        "cate_id": "34",
+        "cate_name": "方便速食",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi4@2x.png",
+        "parent_id": "7"
+    },
+    {
+        "cate_id": "35",
+        "cate_name": "干货",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi5@2x.png",
+        "parent_id": "7"
+    },
+    {
+        "cate_id": "36",
+        "cate_name": "豆类制品",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi6@2x.png",
+        "parent_id": "7"
+    },
+    {
+        "cate_id": "37",
+        "cate_name": "其他",
+        "cate_icon": "\/static\/mobile\/images\/category\/mi7@2x.png",
+        "parent_id": "7"
+    }
+]

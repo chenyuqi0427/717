@@ -1,0 +1,44 @@
+[
+    {
+        "cate_id": "38",
+        "cate_name": "鲜调味品",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao1@2x.png",
+        "parent_id": "8"
+    },
+    {
+        "cate_id": "39",
+        "cate_name": "干调味品",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao2@2x.png",
+        "parent_id": "8"
+    },
+    {
+        "cate_id": "40",
+        "cate_name": "酱",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao3@2x.png",
+        "parent_id": "8"
+    },
+    {
+        "cate_id": "41",
+        "cate_name": "调味油",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao4@2x.png",
+        "parent_id": "8"
+    },
+    {
+        "cate_id": "42",
+        "cate_name": "日常调味",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao5@2x.png",
+        "parent_id": "8"
+    },
+    {
+        "cate_id": "43",
+        "cate_name": "腌菜",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao6@2x.png",
+        "parent_id": "8"
+    },
+    {
+        "cate_id": "44",
+        "cate_name": "其他",
+        "cate_icon": "\/static\/mobile\/images\/category\/tiao7@2x.png",
+        "parent_id": "8"
+    }
+]

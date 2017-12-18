@@ -1,0 +1,14 @@
+[
+    {
+        "cate_id": "16",
+        "cate_name": "液态奶",
+        "cate_icon": "\/static\/mobile\/images\/category\/niu1@2x.png",
+        "parent_id": "4"
+    },
+    {
+        "cate_id": "19",
+        "cate_name": "蜂蜜",
+        "cate_icon": "\/static\/mobile\/images\/category\/niu4@2x.png",
+        "parent_id": "4"
+    }
+]

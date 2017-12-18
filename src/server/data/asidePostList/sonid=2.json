@@ -1,0 +1,32 @@
+[
+    {
+        "cate_id": "52",
+        "cate_name": "东南",
+        "cate_icon": "\/static\/mobile\/images\/category\/jia3@2x.png",
+        "parent_id": "2"
+    },
+    {
+        "cate_id": "51",
+        "cate_name": "西北",
+        "cate_icon": "\/static\/mobile\/images\/category\/jia2@2x.png",
+        "parent_id": "2"
+    },
+    {
+        "cate_id": "50",
+        "cate_name": "东北",
+        "cate_icon": "\/static\/mobile\/images\/category\/jia1@2x.png",
+        "parent_id": "2"
+    },
+    {
+        "cate_id": "53",
+        "cate_name": "西南",
+        "cate_icon": "\/static\/mobile\/images\/category\/jia4@2x.png",
+        "parent_id": "2"
+    },
+    {
+        "cate_id": "54",
+        "cate_name": "中原",
+        "cate_icon": "\/static\/mobile\/images\/category\/jia5@2x.png",
+        "parent_id": "2"
+    }
+]

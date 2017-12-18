@@ -1,0 +1,28 @@
+body, #app {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: .12rem; 
+  display: -webkit-flex;
+  -webkit-flex-direction: column;
+  overflow: hidden;
+  color: #909090; }
+
+.header {
+  height: .92rem;
+  line-height: .92rem; }
+
+.content {
+  -webkit-flex: 1;
+  overflow-x: hidden;
+  overflow-y: scroll; }
+
+.footer {
+  height: .96rem;
+  border-top: 1px solid #ccc; }
+
+a{
+  color:#000;
+}
+/*# sourceMappingURL=style.css.map */

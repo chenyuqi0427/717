@@ -1,0 +1,26 @@
+[
+    {
+        "cate_id": "49",
+        "cate_name": "名酒",
+        "cate_icon": "\/static\/mobile\/images\/category\/jiu1@2x.png",
+        "parent_id": "9"
+    },
+    {
+        "cate_id": "46",
+        "cate_name": "功能水",
+        "cate_icon": "\/static\/mobile\/images\/category\/jiu2@2x.png",
+        "parent_id": "9"
+    },
+    {
+        "cate_id": "47",
+        "cate_name": "冲饮",
+        "cate_icon": "\/static\/mobile\/images\/category\/jiu3@2x.png",
+        "parent_id": "9"
+    },
+    {
+        "cate_id": "48",
+        "cate_name": "茶叶",
+        "cate_icon": "\/static\/mobile\/images\/category\/jiu4@2x.png",
+        "parent_id": "9"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "cate_id": "20",
+        "cate_name": "坚果炒货",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu1@2x.png",
+        "parent_id": "5"
+    },
+    {
+        "cate_id": "21",
+        "cate_name": "膨化食品",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu2@2x.png",
+        "parent_id": "5"
+    },
+    {
+        "cate_id": "22",
+        "cate_name": "饼干糕点",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu3@2x.png",
+        "parent_id": "5"
+    },
+    {
+        "cate_id": "23",
+        "cate_name": "果脯蜜饯",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu4@2x.png",
+        "parent_id": "5"
+    },
+    {
+        "cate_id": "24",
+        "cate_name": "糖果",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu5@2x.png",
+        "parent_id": "5"
+    },
+    {
+        "cate_id": "25",
+        "cate_name": "肉类零食",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu6@2x.png",
+        "parent_id": "5"
+    },
+    {
+        "cate_id": "26",
+        "cate_name": "其他",
+        "cate_icon": "\/static\/mobile\/images\/category\/xiu7@2x.png",
+        "parent_id": "5"
+    }
+]
